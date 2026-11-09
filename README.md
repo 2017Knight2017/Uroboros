@@ -21,4 +21,4 @@ Flutter with following libraries:
 - *[geolocator](https://pub.dev/packages/geolocator)* and *[geocoding](https://pub.dev/packages/geocoding)* for location identification with GPS.
 
 ## License
-This repository is licensed under **GNU Public License v3.0**.
+This repository is licensed under **GNU General Public License v3.0**.
